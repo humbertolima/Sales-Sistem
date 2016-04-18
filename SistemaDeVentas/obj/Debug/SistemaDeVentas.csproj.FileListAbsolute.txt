@@ -1,0 +1,28 @@
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.exe.config
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.exe
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.pdb
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Properties.Resources.resources
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.csproj.GenerateResource.Cache
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.exe
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.pdb
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\bin\Debug\CapaPresentacion.dll
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\bin\Debug\CapaPresentacion.pdb
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.csprojResolveAssemblyReference.cache
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\bin\Debug\CapaNegocio.dll
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\bin\Debug\CapaDatos.dll
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\bin\Debug\CapaNegocio.pdb
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\bin\Debug\CapaDatos.pdb
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.exe.config
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.exe
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.pdb
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\bin\Debug\CapaPresentacion.dll
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\bin\Debug\CapaNegocio.dll
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\bin\Debug\CapaDatos.dll
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\bin\Debug\CapaPresentacion.pdb
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\bin\Debug\CapaNegocio.pdb
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\bin\Debug\CapaDatos.pdb
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.csprojResolveAssemblyReference.cache
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Properties.Resources.resources
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.csproj.GenerateResource.Cache
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.exe
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.pdb

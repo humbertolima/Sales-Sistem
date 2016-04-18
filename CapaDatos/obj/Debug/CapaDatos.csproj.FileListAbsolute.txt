@@ -1,0 +1,10 @@
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache

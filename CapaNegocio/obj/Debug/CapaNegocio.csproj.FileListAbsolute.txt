@@ -1,0 +1,14 @@
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\HumbeHome\Desktop\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\HumbeHome\Desktop\All about Software Developer\Sistema de Ventas\Sistema de Ventas\SistemaDeVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb
