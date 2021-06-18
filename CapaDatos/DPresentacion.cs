@@ -56,10 +56,6 @@ public int Idpresentacion
                 SqlCommand cmd = new SqlCommand("spinsertar_pres", SqlCon);
                 cmd.CommandType = CommandType.StoredProcedure;
 
-                SqlParameter parId = new SqlParameter("@idpresentacion", SqlDbType.Int);
-                parId.Direction = ParameterDirection.Output;
-                cmd.Parameters.Add(parId);
-
                 SqlParameter parnombre = new SqlParameter("@nombre", Presentacion.nombre);
                 cmd.Parameters.Add(parnombre);
 
